@@ -129,7 +129,7 @@
         <param name="kff">             1          1          1          1     </param>
         <param name="kbemf">           0          0          0          0     </param>
         <param name="filterType">      0          0          0          0     </param>
-        <param name="ktau">         -400       -400       -400       -300     </param>
+        <param name="ktau">         -175       -300       -300       -300     </param>
     </group>
 
     <group name="2FOC_CUR_CONTROL">
