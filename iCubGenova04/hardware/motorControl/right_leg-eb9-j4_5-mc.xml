@@ -86,7 +86,7 @@
         <param name="kff">             1          1             </param>
         <param name="kbemf">           0          0             </param>
         <param name="filterType">      0          0             </param>
-        <param name="ktau">          -0.72      -0.56           </param>
+        <param name="ktau">           0.72       0.56           </param>
     </group>
 
     <group name="TRQ_PID_TUNED">
@@ -124,7 +124,7 @@
         <param name="kff">             1          1             </param>
         <param name="kbemf">           0          0             </param>
         <param name="filterType">      0          0             </param>
-        <param name="ktau">          -0.72      -0.53           </param>
+        <param name="ktau">           0.72       0.53           </param>
     </group>
 
     <group name="TRQ_PID_OUTPUT_CURR">
