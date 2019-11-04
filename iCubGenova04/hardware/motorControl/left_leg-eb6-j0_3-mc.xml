@@ -113,7 +113,7 @@
         <param name="outputType">          pwm                          </param>
         <param name="fbkControlUnits">     metric_units                 </param>
         <param name="outputControlUnits">  dutycycle_percent            </param>
-        <param name="kp">              0          0          0          0     </param>
+        <param name="kp">              0          0          0         -0.47  </param>
         <param name="kd">              0          0          0          0     </param>
         <param name="ki">              0          0          0          0     </param>
         <param name="maxOutput">      25         25         25         25     </param>
@@ -122,7 +122,7 @@
         <param name="stictionUp">      3          3          3          3     </param>
         <param name="stictionDown">    3.5        3.5        3.5        3.5   </param>
         <param name="kff">             1          1          1          1     </param>
-        <param name="kbemf">           0.58       0.58       0.58       0.58  </param>
+        <param name="kbemf">           0.2        0.2        0.2        0.2   </param>
         <param name="filterType">      0          0          0          0     </param>
         <param name="ktau">         0.44       0.56       0.62       0.63     </param>
     </group>
