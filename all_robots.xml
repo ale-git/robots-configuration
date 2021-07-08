@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <robot_database  xmlns:xi="http://www.w3.org/2001/XInclude">
+    <xi:include href="./R1SN000/CER.xml" />
+    <xi:include href="./R1SN001/CER.xml" />
+    <xi:include href="./R1SN002/CER.xml" />
+    <xi:include href="./R1SN003/CER.xml" />
 	<xi:include href="./iCubLugano01/icub_all.xml" />
 	<xi:include href="./iCubErzelli01/icub_all.xml" />
 	<xi:include href="./iCubParis01/icub_all.xml" />
@@ -21,6 +25,7 @@
 	<xi:include href="./iCubLethbridge01/icub_all.xml" />
 	<xi:include href="./iCubNancy01/icub_all.xml" />
 	<xi:include href="./iCubSingapore01/icub_all.xml" />
+	<xi:include href="./iCubHongKong01/icub_all.xml" />
 	<!-- <xi:include href="./iCubBielefeld01" /> -->
 	<xi:include href="./iCubHertfordshire01/icub_all.xml" />
 	<xi:include href="./iCubHertfordshire02/icub_all.xml" />
@@ -32,6 +37,7 @@
 	<!-- <xi:include href="./iCubGenova01/icub_all_no_legs.xml" /> -->
 	<!-- <xi:include href="./iCubTemplates" /> -->
 	<xi:include href="./iCubGenova04/icub_all.xml" />
+	<xi:include href="./iRonCub-Mk1/iRonCub_wbd.xml" />
 	<xi:include href="./iCubAnkara01/icub_all.xml" />
 	<xi:include href="./iCubLausanne01/icub_all.xml" />
 	<xi:include href="./iCubRome02/icub_all.xml" />
@@ -55,4 +61,8 @@
 	<xi:include href="./iCubParis02/icub_all.xml" />
 	<xi:include href="./iCubTwente01/icub_all.xml" />
 	<xi:include href="./iCubAberystwyth01/icub_all.xml" />
+	<xi:include href="./iCubGenova08/icub_all.xml" />
+	<xi:include href="./iCubWaterloo01/icub_all.xml" />
+	<xi:include href="./iCubZagreb01/icub_all.xml" />
+	<xi:include href="./iCubPrague01/icub_all.xml" />
 </robot_database > 
